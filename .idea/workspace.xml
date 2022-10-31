@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="image-transformer" targetName="image-matcher" />
+      <config projectName="image-transformer" targetName="image-transformer" />
+      <config projectName="image-transformer" targetName="check" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fc6491c-d134-4a6b-9f0e-0122d8a07e34" name="Changes" comment="&quot;repaired void usage()&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/include/bmp.h" beforeDir="false" afterPath="$PROJECT_DIR$/solution/include/bmp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/include/image.h" beforeDir="false" afterPath="$PROJECT_DIR$/solution/include/image.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/include/rotation.h" beforeDir="false" afterPath="$PROJECT_DIR$/solution/include/rotation.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/src/bmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/solution/src/bmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/src/image.c" beforeDir="false" afterPath="$PROJECT_DIR$/solution/src/image.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/solution/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution/src/rotation.c" beforeDir="false" afterPath="$PROJECT_DIR$/solution/src/rotation.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gug1xg0VRXpwFF31KUazAHWyFU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "ctest.advertisement.all.test.configuration.is.created": "true",
+    "last_opened_file_path": "/home/yurnerox/C_rotation_lab/assignment-image-rotation",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager" selected="CTest Application.All CTest">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="image-transformer" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="image-matcher" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="image-transformer" TARGET_NAME="image-matcher" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="image-transformer" RUN_TARGET_NAME="image-matcher">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="image-transformer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="image-transformer" TARGET_NAME="image-transformer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="image-transformer" RUN_TARGET_NAME="image-transformer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All CTest" type="CTestRunConfiguration" factoryName="CTestRun" PROGRAM_PARAMS="--extra-verbose" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$CMakeCurrentLocalGenerationDir$" PASS_PARENT_ENVS_2="true" RUN_PATH="$CTestCurrentExecutableName$" EXPLICIT_BUILD_TARGET_NAME="all" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.image-transformer" />
+      <item itemvalue="CMake Application.check" />
+      <item itemvalue="CMake Application.image-matcher" />
+      <item itemvalue="CTest Application.All CTest" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fc6491c-d134-4a6b-9f0e-0122d8a07e34" name="Changes" comment="" />
+      <created>1667243671947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667243671947</updated>
+      <workItem from="1667243673613" duration="118000" />
+      <workItem from="1667244069384" duration="3159000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Almost completed&quot;">
+      <created>1667243725733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667243725734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;repaired includes&quot;">
+      <created>1667244149405</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667244149405</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;repaired includes #2&quot;">
+      <created>1667244401216</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667244401216</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;repaired includes #2&quot;">
+      <created>1667244737519</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667244737519</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;repaired includes #3&quot;">
+      <created>1667244750283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667244750283</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;repaired includes #4&quot;">
+      <created>1667244794765</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667244794765</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;repaired void usage()&quot;">
+      <created>1667245054680</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667245054680</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Almost completed&quot;" />
+    <MESSAGE value="&quot;repaired includes&quot;" />
+    <MESSAGE value="&quot;repaired includes #2&quot;" />
+    <MESSAGE value="&quot;repaired includes #3&quot;" />
+    <MESSAGE value="&quot;repaired includes #4&quot;" />
+    <MESSAGE value="&quot;repaired void usage()&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;repaired void usage()&quot;" />
+  </component>
+</project>
