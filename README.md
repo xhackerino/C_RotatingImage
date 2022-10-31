@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# C_Lab1_RotatingImage
-lab completed
-=======
-<<<<<<< HEAD
-# C_Lab1_RotatingImage
-lab completed
+
 =======
 # Assignment: Image rotation
 ---
